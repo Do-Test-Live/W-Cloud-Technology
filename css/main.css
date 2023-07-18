@@ -1002,10 +1002,9 @@ ul.nav > li > a.active{
     padding: 10px 15px;
     margin: 0;
     color: #263b5e;
-    font-size: 32px;
+    font-size: 17px;
     font-weight: 600;
     letter-spacing: -0.2px;
-    line-height: 46px;
 }
 .slicknav_nav .slicknav_arrow {
     float: right;
