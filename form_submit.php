@@ -37,6 +37,9 @@ if($insert_query){
     $mail->isHTML(true);
     $mail->Body = "
             <html>
+                <head>
+                <meta charset='utf-8'>
+                </head>
                 <body style='background-color: #eee; font-size: 16px;'>
                 <div style='max-width: 600px; min-width: 200px; background-color: #ffffff; padding: 20px; margin: auto;'>
                 
